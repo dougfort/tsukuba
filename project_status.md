@@ -1,177 +1,87 @@
-# Project Status — Mittsu no Hoshi (三つの星)
-## Tsukuba Project — Current State
+# Output Files — Complete Reference
+## Mittsu no Hoshi (三つの星) — Tsukuba Project
 
-*Last updated: this session.*
-
----
-
-## What This Story Is
-
-A Japanese children's science fiction story set in Tsukuba Science City, circa 1978–1979. Three boys — Kenji (11), Shin (10), and Taro (9) — discover a drainage channel behind a research institute and claim it as their territory. Over two summers, they gradually come into contact with Nushi (主): an ancient distributed intelligence that has inhabited the earth's fault system beneath Mount Tsukuba since before life existed. Inspired by classic Japanese children's science fiction and Ray Bradbury's *Dandelion Wine*.
+*All files in the outputs folder. Files already uploaded to Obsidian are noted.*
 
 ---
 
-## The Three Boys
+## Narrative — Part One
 
-| Character | Age | Birthday | Role |
-|-----------|-----|----------|------|
-| Kenji 健二 | 11 | April 18, 1968 | Leader, older brother to Taro. Goes first. Stores before he speaks. |
-| Shin 真 | 10 | October 14, 1969 | Intellectual anchor. Keeps the notebook. Named Nushi. |
-| Taro 太郎 | 9 | January 29, 1970 | Chaotic element. Unfiltered perception. Named Mittsu no Hoshi. |
-
----
-
-## Story Structure
-
-**Three parts**, corresponding to three phases of Nushi's relationship with the boys.
-
-**Prologue** — Nushi's perspective, the Slope Node incident. Already drafted. Stands before Part One.
-
-**Part One: The Territory** — Discovery, establishment, the ordinary world. Ends with the Slope Node incident seen from the boys' side. *Fully scene-mapped. Six chapters drafted.*
-
-**Part Two: The Contact** — Environmental effects, the mountain card, hypnagogic contact, the adults beginning to notice. Ends with the naming of Nushi and Mittsu no Hoshi. *Scene-mapped. Not yet drafted.*
-
-**Part Three: The Awareness** — Abilities manifesting, adults' investigation, two streams converging. Resolution undetermined. *Not yet mapped.*
-
-**Epilogue** — Nushi's perspective again. The boys as receding signals. The fault continuing to think.
+| File | Chapter | Status |
+|------|---------|--------|
+| *(in project)* | Prologue — Nushi's perspective, the Slope Node | ✅ In Obsidian |
+| *(in project)* | Ch. 1 — The Channel Discovery | ✅ In Obsidian |
+| `p1_ch02_the_claiming.md` | Ch. 2 — The Claiming | Upload needed |
+| `p1_ch03_beetles.md` | Ch. 3 — Beetles | Upload needed |
+| `p1_ch04_autumn_at_the_spot.md` | Ch. 4 — Autumn at the Spot | Upload needed |
+| `p1_ch05_the_study.md` | Ch. 5 — The Study | Upload needed |
+| `p1_ch06_the_return.md` | Ch. 6 — The Return *(merged Ch.6 & 7)* | Upload needed |
+| *(not drafted — merged into Ch. 6)* | Ch. 7 | — |
+| `p1_ch08_further.md` | Ch. 8 — Further | Upload needed |
+| `p1_ch09_the_slope_node.md` | Ch. 9 — The Slope Node | Upload needed |
 
 ---
 
-## Part One — Drafting Status
+## Narrative — Part Two
 
-| Chapter | Title | Status | Notes |
-|---------|-------|--------|-------|
-| Prologue | *(Nushi — the Slope Node)* | ✅ Drafted | In project files |
-| Ch. 1 | The Channel Discovery | ✅ Drafted | In project files as `narrative_channel_discovery` |
-| Ch. 2 | The Claiming | ✅ Drafted | In project files as `narrative_chapter_two` |
-| Ch. 3 | Beetles | ✅ Drafted | In project files as `narrative_chapter_three` |
-| Ch. 4 | Autumn at the Spot | ✅ Drafted | In project files as `narrative_chapter_four` |
-| Ch. 5 | The Study | ✅ Drafted | In project files as `narrative_chapter_five` |
-| Ch. 6 | The Return *(merged Ch. 6 & 7)* | ✅ Drafted | In project files as `narrative_chapter_six` |
-| Ch. 7 | Further | ⬜ Not drafted | Scene map exists |
-| Ch. 8 | — | ⬜ Not drafted | Will cover upper channel approach sessions |
-| Ch. 9 | The Slope Node | ✅ Drafted | In project files as `narrative_chapter_nine` |
-
-*Note: Chapter 8 (Further) sits between Chapter 6 and Chapter 9 and still needs drafting. It covers the progressive upper channel expeditions that build momentum toward the Slope Node.*
-
----
-
-## Part Two — Scene Map
-
-Twelve chapters, four phases. Scene map produced this session, now in project files as `part_two_scene_map`.
-
-| Chapter | Title | Status |
-|---------|-------|--------|
-| Ch. 1 | After | ⬜ Not drafted |
-| Ch. 2 | The Card | ⬜ Not drafted |
-| Ch. 3 | The Spot in Autumn | ⬜ Not drafted |
-| Ch. 4 | Hiroshi's List | ⬜ Not drafted |
-| Ch. 5 | The Mothers | ⬜ Not drafted |
-| Ch. 6 | The Frequency | ⬜ Not drafted |
-| Ch. 7 | It's the Mountain Watching | ⬜ Not drafted |
-| Ch. 8 | The Reach *(Nushi's perspective)* | ⬜ Not drafted |
-| Ch. 9 | Breakfast | ⬜ Not drafted |
-| Ch. 10 | The Return | ⬜ Not drafted |
-| Ch. 11 | What We're Experiencing | ⬜ Not drafted |
-| Ch. 12 | Nushi | ⬜ Not drafted |
+| File | Chapter | Status |
+|------|---------|--------|
+| `p2_ch01_after.md` | Ch. 1 — After | Upload needed |
+| `p2_ch02_the_card.md` | Ch. 2 — The Card | Upload needed |
+| *(not yet drafted)* | Ch. 3 — The Spot in Autumn | — |
+| *(not yet drafted)* | Ch. 4 — Hiroshi's List | — |
+| *(not yet drafted)* | Ch. 5 — The Mothers | — |
+| *(not yet drafted)* | Ch. 6 — The Frequency | — |
+| *(not yet drafted)* | Ch. 7 — It's the Mountain Watching | — |
+| *(not yet drafted)* | Ch. 8 — The Reach *(Nushi's perspective)* | — |
+| *(not yet drafted)* | Ch. 9 — Breakfast | — |
+| *(not yet drafted)* | Ch. 10 — The Return | — |
+| *(not yet drafted)* | Ch. 11 — What We're Experiencing | — |
+| *(not yet drafted)* | Ch. 12 — Nushi *(the naming)* | — |
 
 ---
 
-## Shin's Notebook — Status
+## Shin's Notebook
 
-A parallel document running alongside the narrative chapters. Three entries drafted and merged.
+| File | Contents | Status |
+|------|----------|--------|
+| `shin_notebook.md` | All three entries merged — Aug 3, Aug 6, Aug 9 | Replaces existing in Obsidian |
+| `shin_notebook_entry_2.md` | Entry 2 standalone draft | Superseded by merged file |
+| `shin_notebook_entry_3.md` | Entry 3 standalone draft | Superseded by merged file |
 
-| Entry | Date | Status |
-|-------|------|--------|
-| Entry 1 | August 3 | ✅ In notebook file |
-| Entry 2 | August 6 | ✅ In notebook file |
-| Entry 3 | August 9 | ✅ In notebook file |
-
-More entries to be drafted as chapters progress. Current notebook file is `shin_notebook.md` in project files.
-
-**Protocol:** Draft entry separately → approve → merge into new notebook file → upload as replacement.
+*Note: Only upload `shin_notebook.md`. The standalone entry files are working drafts only.*
 
 ---
 
-## World and Research Documents
+## Planning Documents
 
-All in project files.
-
-| File | Contents |
-|------|----------|
-| `world_drainage_channel` | The channel — physical description |
-| `world_drainage_channel_sacred_history` | The channel's sacred history, shrine lineage, kannagi |
-| `world_school` | The boys' school |
-| `world_what_the_boys_play` | Games, menko, the mountain card mechanics |
-| `nushi` | Nushi — the name, folkloric meaning |
-| `nushi_perception` | How Nushi perceives — senses, umwelt |
-| `nushi_distributed_intelligence_research` | Research survey — fiction and science |
-| `nushi_contact_history` | The shrine lineage, kagai, what Nushi knows by 1979 |
-| `nushi_first_awareness` | Nushi's discovery of the boys |
-| `notes_yugen_aware_manyoshu` | Yūgen, aware, and the Man'yoshu — notes for Chapter Five |
+| File | Contents | Status |
+|------|----------|--------|
+| `plan_p1_scene_map.md` | Part One scene map — 9 chapters | Upload needed |
+| `plan_p2_scene_map.md` | Part Two scene map — 12 chapters | Upload needed |
 
 ---
 
-## Character Documents
+## Reference and Research
 
-All in project files.
-
-| File | Contents |
-|------|----------|
-| `character_kenji` | Kenji's character sheet |
-| `character_shin` | Shin's character sheet |
-| `character_taro` | Taro's character sheet |
-| `character_mori_hiroshi` | Father of Kenji and Taro — earth sciences |
-| `character_mori_akiko` | Mother of Kenji and Taro |
-| `character_nakamura_takashi` | Father of Shin — cognitive sciences |
-| `character_nakamura_yuriko` | Mother of Shin — former teacher |
-| `character_psychological_profiles` | Deep interior portraits of all three boys |
-| `character_birthdays_milestones` | Specific birthdays, ages at key events, Japanese childhood ceremonies |
-| `mittsu_no_hoshi` | The boys as a group — dynamic, territory, the name |
+| File | Contents | Status |
+|------|----------|--------|
+| `character_birthdays_milestones.md` | Specific birthdays, ages at key events, Japanese childhood ceremonies | Upload needed |
+| `notes_yugen_aware_manyoshu.md` | Yūgen, aware, and the Man'yoshu — notes toward Chapter Five | Upload needed |
+| `supersession_cleanup.md` | File audit — duplicates and INDEX discrepancies | For reference only |
+| `INDEX_revised.md` | Revised INDEX — supersedes current INDEX.md in Obsidian | ✅ Already uploaded |
 
 ---
 
-## Story Planning Documents
+## Naming Convention
 
-| File | Contents |
-|------|----------|
-| `story_structure` | Story structure proposal — the tradition, arc, shape |
-| `timeline` | Full chronology from families' arrival to first conscious contact |
-| `part_one_scene_map` | Scene-by-scene map of Part One (9 chapters) |
-| `part_two_scene_map` | Scene-by-scene map of Part Two (12 chapters) — produced this session |
-| `todo` | Open questions, tasks, possible scenes |
-| `INDEX` | Master index of all project files |
+- **`p1_chNN_title`** — Part One narrative chapters
+- **`p2_chNN_title`** — Part Two narrative chapters
+- **`plan_pN_description`** — Planning and scene map documents
+- Everything else uses descriptive names
 
 ---
 
-## Key Decisions Made This Session
+## One File to Delete from Obsidian
 
-- **The two namings** arrive on the same afternoon, separate moments: Shin names Nushi, Taro names Mittsu no Hoshi.
-- **The mothers' scene** in Part Two: a full scene from the mothers' perspective, no boys present.
-- **Hiroshi's seismological investigation** is seeded in Part Two, not held for Part Three.
-- **Part Two's central chapter** is the second Slope Node visit — the chosen return.
-
----
-
-## Key Decisions Still Open
-
-- **Chapter 8 (Further)** in Part One — needs drafting before Part Two begins.
-- **Kenji's precise question** in Part Two Chapter Nine — what he says that reveals he has been thinking about this for a long time. To be found in drafting.
-- **The mothers' scene setting** — winter evening, probably the Nakamura household.
-- **Nushi section visual designation** — does Chapter Eight of Part Two have different typography/heading to signal perspective shift?
-- **Shin's poem** — flagged as a planned narrative moment, arriving in Part Two Chapters Ten or Eleven, written on loose paper. Not in the notebook.
-- **Several open timeline questions** (see `todo.md`): exact year of families' arrival; whether families' arrival is coincidental; Taro's t-shirt text; the scar story; the iwakura.
-
----
-
-## Files Produced This Session Not Yet Uploaded
-
-The following files are in outputs and need to be uploaded to Obsidian:
-
-| File | Replaces / New |
-|------|---------------|
-| `part_two_scene_map.md` | New |
-| `narrative_chapter_nine.md` | New |
-| `shin_notebook.md` | Replaces existing `shin_notebook.md` |
-
-*Note: `character_mori_hiroshi__1_.md` (exact duplicate) can be deleted from the project.*
+- **`character_mori_hiroshi__1_.md`** — exact duplicate of `character_mori_hiroshi.md`, safe to delete
